@@ -173,3 +173,7 @@ You can include multiple options if you feel there isn't a perfect solution. Jus
 2. **Propose and diagram a data pipeline that can ingest and transform the data from those three JSON files (and check the API, if necessary) and update the base table with new data every half hour.**
    You can assume that every new data will either be a new lead with a newer `CreateDate` or an old existing lead with an updated `SaleDate` prop.
 
+
+## I finished. What now?
+
+Now you send your solution to datasci@mobiauto.com.br and we'll get back to you as soon as we possible!
