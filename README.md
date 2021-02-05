@@ -52,7 +52,7 @@ git lfs pull
 
 ##  Context
 
-When someone sends us a message interested in buying a car, we call it a _Lead_. On a daily basis, we receive a lot of car leads, but not all of them are very promissing. In order to make our sellers lives easier, we created a **lead qualifier API** with the goal of analyzing each lead we receive and determining if the seller should follow up with the lead or not. Each _Lead_ is related to a specific _Car_ the person wants to buy and each _Car_ is related to a _Seller_. Here are the structs that represent each of them:
+When someone sends us a message interested in buying a car, we call it a _Lead_. On a daily basis, we receive a lot of car leads, but not all of them are very promising. In order to make our sellers lives easier, we created a **lead qualifier API** with the goal of analyzing each lead we receive and determining if the seller should follow up with the lead or not. Each _Lead_ is related to a specific _Car_ the person wants to buy and each _Car_ is related to a _Seller_. Here are the structs that represent each of them:
 
 ```go
 type Lead struct {
@@ -150,7 +150,7 @@ The files `cars.json`, `leads.json` and `sellers.json` contains a small snippet 
 {"Id":"bc67a2ab-806e-489e-b899-095db2cdfe5c","CreateDate":"2019-10-10T16:40:47Z","SaleDate":"2019-12-27T16:40:47Z","City":5,"MessageScore":81,"CarId":"0469f10f-52f4-4f14-8a21-5b0d4f696ed3"}
 ```
 
-When a `Lead` has a `SaleDate` it means the Lead was already sent to the `Seller` by one of our human attendents. For the purpose of our exercise, we'll assume that every Lead without a `SaleDate` is a `Lead` that the correspondent Seller never saw.
+When a `Lead` has a `SaleDate` it means the Lead was already sent to the `Seller` by one of our human attendants. For the purpose of our exercise, we'll assume that every Lead without a `SaleDate` is a `Lead` that the correspondent Seller never saw.
 
 ## Problem
 
