@@ -3,7 +3,7 @@
 This repository holds an interview problem designed for the Data Engineering role at the Data team at Mobiauto. Here we describe everything you're going to need to complete the exercise.
 
 
-*💡 You stumbled upon this challenge and enjoyed trying it? Feel free to send us the solution over to datasci@mobiauto.com.br! We're constantly looking for awesome developers.*
+*💡 You stumbled upon this challenge and enjoyed trying it? Feel free to send us the solution over to data@mobiauto.com.br! We're constantly looking for awesome developers.*
 
 ## Goals
 
@@ -11,7 +11,7 @@ This repository holds an interview problem designed for the Data Engineering rol
 
 2. Evaluate how you solve problems.
 
-_If you feel that for some reason the following task doesn't meet the above goals or if you find any problems along the way, you can let us know by emailing the team at datasci@mobiauto.com.br. We'll be happy to help!_
+_If you feel that for some reason the following task doesn't meet the above goals or if you find any problems along the way, you can let us know by emailing the team at data@mobiauto.com.br. We'll be happy to help!_
 
 ## How to use this repo
 
@@ -176,4 +176,4 @@ You can include multiple options if you feel there isn't a perfect solution. Jus
 
 ## I finished. What now?
 
-Now you send your solution to datasci@mobiauto.com.br and we'll get back to you as soon as we possible!
+Now you send your solution to data@mobiauto.com.br and we'll get back to you as soon as we possible!
