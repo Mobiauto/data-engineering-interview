@@ -1,3 +1,5 @@
+![Badge confidential](http://img.shields.io/static/v1?label=SECURITY&message=PUBLICO&color=green&style=for-the-badge)
+
 # Data Engineering Interview
 
 This repository holds an interview problem designed for the Data Engineering role at the Data team at Mobiauto. Here we describe everything you're going to need to complete the exercise.
